@@ -57,8 +57,6 @@ console.log(francois);
 ```
 ## Currently Working On:
 - Cisco Python Essentials
-- Blazor
-- Building portfolio projects
 - Seeking graduate and junior developer opportunities
 - TaskFlow: [GitHub Repository](https://github.com/231256leRouxFNF/TaskFlow)
 
