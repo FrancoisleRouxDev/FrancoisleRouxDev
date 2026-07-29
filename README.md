@@ -56,9 +56,9 @@ const francois = {
 console.log(francois);
 ```
 ## Currently Working On:
-- Cisco Python Essentials
 - Seeking graduate and junior developer opportunities
 - TaskFlow: [GitHub Repository](https://github.com/231256leRouxFNF/TaskFlow)
+- MonoFact: [GitHub Repository](https://github/com/231256leRoucFNF/Monofact)
 
 ## Technical Skills
 
