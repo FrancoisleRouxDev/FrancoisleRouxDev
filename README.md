@@ -6,9 +6,9 @@
 
 <h1 align="center">Francois le Roux</h1>
 
-<p align="center"> Final-Year Interactive Development Student · Aspiring Software Developer · Pretoria, South Africa </p>
+<p align="center"> I'm Francois, a final-year Interactive Development student at The Open Window Institute based in Pretoria, South Africa. </p>
 
-<p align="center"> Building software through real-world projects while continuously learning modern development technologies. </p>
+<p align="center"> I enjoy building software that solves problems, particularly full-stack and mobile applications. I'm currently looking for graduate and junior software developer opportunities where I can continue learning while contributing to meaningful products. </p>
 
 <!-- <p align="center">
   <img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -58,73 +58,44 @@ console.log(francois);
 ## Currently Working On:
 - Seeking graduate and junior developer opportunities
 - TaskFlow: [GitHub Repository](https://github.com/FrancoisleRouxDev/TaskFlow)
-- MonoFact: [GitHub Repository](https://github/com/FrancoisleRouxDev/MonoFact)
+- MonoFact: [GitHub Repository](https://github.com/FrancoisleRouxDev/MonoFact)
+- Expanding my knowledge of React Native, Firebase, and .NET
 
 ## Technical Skills
 
-Frontend
-- HTML5
-- CSS3
+### Programming Languages
+- C#
 - JavaScript
 - TypeScript
-- React
-
-Backend
-- C#
-- .NET
-- Node.js
-
-Databases
+- HTML5
+- CSS3
 - SQL
-- Database Design
-- PostgreSQL
 
-Tools
+### Frameworks & Libraries
+- .NET
+- React
+- React Native
+- Node.js
+- Express.js
+- Electron
+
+### Databases
+- PostgreSQL
+- Firebase
+- Database Design
+
+### Tools
 - Git
 - GitHub
-- Vercel
-- Electron
 - VS Code
-```
+- Docker
+- Postman
+- Vercel
+- Figma
   
 ```
-## Most Recent Project
 
-### VELOURS
-
-A luxury wedding apparel and fashion website built using HTML, CSS and JavaScript.
-
-**Why I Built It**
-
-VELOURS was created to strengthen my frontend development skills by building a complete responsive website from concept to deployment. The project challenged me to work with modern layouts, responsive design principles, user interface interactions, and deployment workflows.
-
-**What I Learned**
-
-* Structuring larger frontend projects
-* Responsive design techniques
-* CSS animations and transitions
-* JavaScript DOM manipulation
-* Git and deployment workflows
-* Debugging real-world frontend issues
-
-**Tech Stack**
-
-* HTML5
-* CSS3
-* JavaScript
-* Git
-* GitHub
-* Vercel
-
-**Future Improvement**
-* Convert the site to the React framework using Tailwind.css.
-
-🔗 Live Demo: [Velours](https://velours-eight.vercel.app)
-
-🔗 Repository: [GitHub Repository](https://github.com/FrancoisleRouxDev/VELOURS)
-
----
-
+```
 ## University Projects (Portfolio of 2025)
 
 ## Automotive Hub
