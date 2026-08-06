@@ -57,8 +57,8 @@ console.log(francois);
 ```
 ## Currently Working On:
 - Seeking graduate and junior developer opportunities
-- TaskFlow: [GitHub Repository](https://github.com/231256leRouxFNF/TaskFlow)
-- MonoFact: [GitHub Repository](https://github/com/231256leRoucFNF/Monofact)
+- TaskFlow: [GitHub Repository](https://github.com/FrancoisleRouxDev/TaskFlow)
+- MonoFact: [GitHub Repository](https://github/com/FrancoisleRouxDev/MonoFact)
 
 ## Technical Skills
 
@@ -121,7 +121,7 @@ VELOURS was created to strengthen my frontend development skills by building a c
 
 🔗 Live Demo: [Velours](https://velours-eight.vercel.app)
 
-🔗 Repository: [GitHub Repository](https://github.com/231256leRouxFNF/VELOURS)
+🔗 Repository: [GitHub Repository](https://github.com/FrancoisleRouxDev/VELOURS)
 
 ---
 
@@ -129,7 +129,7 @@ VELOURS was created to strengthen my frontend development skills by building a c
 
 ## Automotive Hub
  
-🔗 Repository: [Automotive Hub](https://github.com/231256leRouxFNF/AutomotiveHub-DV200)
+🔗 Repository: [Automotive Hub](https://github.com/FrancoisleRouxDev/AutomotiveHub-DV200)
 - A social platform designed for car, motorcycle, and vehicle enthusiasts to connect, share content, and engage with the automotive community.
 
 - **Why I Built It**
@@ -150,7 +150,7 @@ Technologies Used:
 
 ## Wine E-Commerce Site
 
-🔗 Repository: [Wine E-Commerce](https://github.com/231256leRouxFNF/Wine-Ecommerce-site)
+🔗 Repository: [Wine E-Commerce](https://github.com/FrancoisleRouxDev/Wine-Ecommerce-site)
 - A collaborative university project focused on building an online wine retail experience.
 
 **Why We Built It**
@@ -165,7 +165,7 @@ Technologies Used:
 
 ## Football Stats Tracker 
 
-🔗 Repository: [Football Stats Tracker](https://github.com/231256leRouxFNF/formative-one-football-stats)
+🔗 Repository: [Football Stats Tracker](https://github.com/FrancoisleRouxDev/formative-one-football-stats)
 - An app for tracking football statistics, fetching dynamic data from APIs, and presenting it in a clean and intuitive interface. Features responsive visualizations and highlights key performance metrics designed to demonstrate data-driven interactions effectively.
 
 - Why I Built It:
