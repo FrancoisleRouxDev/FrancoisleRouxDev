@@ -38,6 +38,15 @@ I enjoy building software that solves problems. My focus right now is on full-st
 
 ## Current Projects
 
+### TaskFlow
+> A task and project management tool — currently in development.
+
+🔗 [GitHub Repository](https://github.com/FrancoisleRouxDev/TaskFlow)
+
+---
+
+## Completed Projects (2026)
+
 ### Projello Management System
 > A construction industry project management platform built as a full-semester group project.
 
@@ -56,13 +65,6 @@ I enjoy building software that solves problems. My focus right now is on full-st
 
 **Stack:** React Native · Expo · Firebase  
 **What I built:** Mobile UX, real-time data, authentication flows
-
----
-
-### TaskFlow
-> A task and project management tool — currently in development.
-
-🔗 [GitHub Repository](https://github.com/FrancoisleRouxDev/TaskFlow)
 
 ---
 
