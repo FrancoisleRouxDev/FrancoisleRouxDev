@@ -28,17 +28,17 @@ Currently finishing my final year in Interactive Development and actively lookin
 
 ## Projects
 
-### 🔧 TaskFlow *(in development)*
+###  TaskFlow *(in development)*
 A task and project management tool.
 
-🔗 [GitHub](https://github.com/FrancoisleRouxDev/TaskFlow)
+[GitHub](https://github.com/FrancoisleRouxDev/TaskFlow)
 
 ---
 
 ### Projello Management System
 A construction industry project management platform — built as a full-semester group project (4 members).
 
-🔗 [GitHub](https://github.com/AngievR05/Projello-Management-System)
+[GitHub](https://github.com/AngievR05/Projello-Management-System)
 
 | | |
 |---|---|
@@ -50,7 +50,7 @@ A construction industry project management platform — built as a full-semester
 ### MonoFact
 A mobile fact-checking and information app — built solo.
 
-🔗 [GitHub](https://github.com/FrancoisleRouxDev/MonoFact)
+[GitHub](https://github.com/FrancoisleRouxDev/MonoFact)
 
 | | |
 |---|---|
