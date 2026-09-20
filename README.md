@@ -33,6 +33,11 @@ A task and project management tool.
 
 [GitHub](https://github.com/FrancoisleRouxDev/TaskFlow)
 
+### SymptomJournal *(in development)*
+A AI driven app meant to give people a calm way to log any symptom.
+
+[GitHub](https://github.com/FrancoisleRouxDev/SymptomJournal)
+
 ---
 
 ### Projello Management System
