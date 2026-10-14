@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.svg" alt="Banner" style="max-width:1200px; width:100%; height:auto; object-fit:cover; border-radius:6px;" />
+  <img src="github-banner.svg" alt="Banner" style="max-width:1200px; width:100%; height:auto; object-fit:cover; border-radius:6px;" />
 </p>
 
 <h1 align="center">Francois le Roux</h1>
