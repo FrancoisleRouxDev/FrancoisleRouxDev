@@ -150,8 +150,8 @@ A command-line income and expense tracker — add transactions, view totals and 
 ## GitHub Stats
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FrancoisleRouxDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=5fd6c0" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoisleRouxDev&layout=compact&theme=dark&hide_border=true&title_color=fff&icon_color=5fd6c0&text_color=ccc&bg_color=0D1117" />
+  <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancoisleRouxDev&theme=github_dark" />
+  <img alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrancoisleRouxDev&theme=github_dark" />
 </p>
 
 ---
