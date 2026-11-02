@@ -46,7 +46,12 @@ I'm aiming for a **graduate or junior developer role** where design and developm
   </tr>
 </table>
 
-**Currently learning:** MongoDB (Associate Developer Certification) · Blazor · .NET MAUI
+<p align="center">
+  <sub><b>CURRENTLY LEARNING</b></sub><br />
+  <img src="https://img.shields.io/badge/Rust-161B22?style=for-the-badge&logo=rust&logoColor=F74C00" alt="Rust" />
+  <img src="https://img.shields.io/badge/Blazor-161B22?style=for-the-badge&logo=blazor&logoColor=A78BFA" alt="Blazor" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-161B22?style=for-the-badge&logo=dotnet&logoColor=A78BFA" alt=".NET MAUI" />
+</p>
 
 <!-- 4. TECH STACK BADGES -->
 ## Tech Stack
