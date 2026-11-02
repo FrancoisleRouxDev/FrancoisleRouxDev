@@ -122,7 +122,7 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/FrancoisleRouxDev/SymptomJournal"><img src="mock-ups/symptomjournal-preview.jpg" alt="SymptomJournal app screens on two phones" width="100%" /></a>
+      <a href="https://github.com/FrancoisleRouxDev/SymptomJournal"><img src="mock-ups/SymptomJournal-preview.jpg" alt="SymptomJournal app screens on two phones" width="100%" /></a>
     </td>
     <td width="50%" valign="middle">
       <sub><b>01 · DV300 SEMESTER 2 · MOBILE APP</b></sub>
