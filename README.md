@@ -220,6 +220,15 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoisleRouxDev&background=0D1117&border=30363D&stroke=30363D&ring=5FD6C0&fire=5FD6C0&currStreakLabel=5FD6C0&currStreakNum=F0F3F6&sideNums=F0F3F6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" height="170" />
 </p>
 
+<!-- 6b. QUOTE -->
+## Philosophy
+
+<p align="center">
+  <img src="assets/quote.svg" alt="Keep it simple, make it work, then make it beautiful." width="100%" />
+</p>
+
+---
+
 <!-- 7. CONTACT INFORMATION -->
 ## Contact
 
@@ -234,8 +243,8 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
 
 <p align="center">
   <sub>
-    Profile layout inspired by <a href="https://github.com/braydoncoyer/braydoncoyer">Braydon Coyer's GitHub profile</a> ·
-    Ideas from the <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile</a> list (CC0) ·
+    Resources consulted: <a href="https://github.com/braydoncoyer/braydoncoyer">Braydon Coyer's GitHub profile</a> ·
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile list</a> (CC0) ·
     Repository template by Armand Pretorius
   </sub>
 </p>
