@@ -6,7 +6,7 @@
 <!-- 2. SHORT BIOGRAPHY -->
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/u/159991396?v=4&s=320" alt="Photo of Francois le Roux" width="170" align="right" />
+<!-- <img src="https://avatars.githubusercontent.com/u/159991396?v=4&s=320" alt="Photo of Francois le Roux" width="170" align="right" /> -->
 
 I'm a final-year **Bachelor of Creative Technologies** student specialising in **Interactive Development** at The Open Window Institute in Pretoria.
 
