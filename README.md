@@ -233,5 +233,13 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
 </p>
 
 <p align="center">
+  <sub>
+    Profile layout inspired by <a href="https://github.com/braydoncoyer/braydoncoyer">Braydon Coyer's GitHub profile</a> ·
+    Ideas from the <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile</a> list (CC0) ·
+    Repository template by Armand Pretorius
+  </sub>
+</p>
+
+<p align="center">
   <img src="assets/footer.svg" alt="Thanks for visiting." width="100%" />
 </p>
