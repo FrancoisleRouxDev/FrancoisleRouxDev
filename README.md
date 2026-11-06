@@ -6,7 +6,7 @@
 <!-- 2. SHORT BIOGRAPHY -->
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/u/159991396?v=4&s=320" alt="Photo of Francois le Roux" width="170" align="right" />
+<!-- <img src="https://avatars.githubusercontent.com/u/159991396?v=4&s=320" alt="Photo of Francois le Roux" width="170" align="right" /> -->
 
 I'm a final-year **Bachelor of Creative Technologies** student specialising in **Interactive Development** at The Open Window Institute in Pretoria.
 
@@ -150,14 +150,22 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
     <td width="50%" valign="middle">
       <sub><b>02 · DV300 SEMESTER 2 · MOBILE APP</b></sub>
       <h3>MonoFact</h3>
-      <p>A swipe-to-judge "fact or myth" quiz game across six knowledge decks, with a full gamification layer: XP and streak bonuses, an exponential level curve, 27 achievements and daily challenges.</p>
+      <p>A swipe-to-judge "fact or myth" quiz across six knowledge decks. The improvements branch grows each deck to 100 facts (600 in total) and adds a card-count picker (10, 25, 50, 100 or the full deck), so a round can be a quick warm-up or a longer session.</p>
+      <ul>
+        <li><b>Daily reminder</b> at 19:00, switchable in Settings.</li>
+        <li><b>Secure data model:</b> Firestore rules let each user read and write only their own document. Fact decks are read-only to clients and seeded server-side with the Admin SDK.</li>
+        <li><b>Gamification:</b> XP and streak bonuses, levels, 27 achievements and daily challenges.</li>
+        <li><b>Tested:</b> Jest suites for the shuffle, date and stats logic.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Expo_SDK_58-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo SDK 58" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
       </p>
       <a href="https://github.com/FrancoisleRouxDev/MonoFact"><img src="https://img.shields.io/badge/Repo-161B22?style=for-the-badge&logo=github&logoColor=5FD6C0" alt="Repository" /></a>
+      <a href="https://github.com/FrancoisleRouxDev/MonoFact/tree/main-improvements"><img src="https://img.shields.io/badge/Improvements_Branch-161B22?style=for-the-badge&logo=github&logoColor=5FD6C0" alt="Improvements branch" /></a>
       <a href="https://drive.google.com/drive/folders/1cpskZdVN8eDnTDrasaUTKInUQeUqCz0y?usp=drive_link"><img src="https://img.shields.io/badge/Demo_Video-161B22?style=for-the-badge&logo=googledrive&logoColor=5FD6C0" alt="Demo video" /></a>
     </td>
     <td width="50%">
@@ -172,15 +180,24 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
       <sub><b>03 · DV300 SEMESTER 1 · DESKTOP APP · TEAM OF 4</b></sub>
       <h3>Projello</h3>
       <p>Lightweight project management for construction crews: a 30-second daily check-in instead of Jira-style cards, milestone tracking, photo-verified progress, a client portal and one-click calls for on-site issues.</p>
-      <p><b>My role:</b> integrating the Electron/React client with the ASP.NET Core API.</p>
+      <p><b>My role:</b> the Electron/React client's integration with the ASP.NET Core API, plus a security hardening pass on my fork.</p>
+      <p><b>Security hardening</b> (<code>security-hardening</code> branch):</p>
+      <ul>
+        <li><b>Secrets:</b> the committed JWT secret is removed. Keys come from the environment, and the API refuses to start if one is missing.</li>
+        <li><b>Brute-force protection:</b> accounts lock for 15 minutes after 5 failed sign-ins, and auth endpoints are rate-limited.</li>
+        <li><b>Access control:</b> 2FA endpoints use the caller's identity, client endpoints are limited to company staff, and the call hub requires sign-in.</li>
+        <li><b>Deployment:</b> the API runs in Docker Compose with migrations applied on startup.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" alt="SignalR" />
       </p>
       <a href="https://github.com/AngievR05/Projello-Management-System"><img src="https://img.shields.io/badge/Team_Repository-161B22?style=for-the-badge&logo=github&logoColor=5FD6C0" alt="Team repository" /></a>
+      <a href="https://github.com/FrancoisleRouxDev/Projello-Management-System/tree/security-hardening"><img src="https://img.shields.io/badge/Security_Branch-161B22?style=for-the-badge&logo=github&logoColor=5FD6C0" alt="Security hardening branch" /></a>
     </td>
   </tr>
 </table>
@@ -203,6 +220,15 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoisleRouxDev&background=0D1117&border=30363D&stroke=30363D&ring=5FD6C0&fire=5FD6C0&currStreakLabel=5FD6C0&currStreakNum=F0F3F6&sideNums=F0F3F6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" height="170" />
 </p>
 
+<!-- 6b. QUOTE -->
+## Philosophy
+
+<p align="center">
+  <img src="assets/quote.svg" alt="Keep it simple, make it work, then make it beautiful." width="100%" />
+</p>
+
+---
+
 <!-- 7. CONTACT INFORMATION -->
 ## Contact
 
@@ -213,6 +239,14 @@ My three major projects for **Interactive Development 300 (2026)**. Each reposit
   <br />
   <a href="https://www.linkedin.com/in/francois-le-roux-2415182a5/"><img src="https://img.shields.io/badge/LinkedIn-Francois_le_Roux-5FD6C0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzVmZDZjMCIvPjxwYXRoIGQ9Ik01LjcgMTguMkg3LjlWOC45SDUuN1pNNi44IDcuNkM3LjUgNy42IDguMSA3LjEgOC4xIDYuNEM4LjEgNS44IDcuNSA1LjIgNi44IDUuMkM2LjEgNS4yIDUuNSA1LjggNS41IDYuNEM1LjUgNy4xIDYuMSA3LjYgNi44IDcuNlpNMTIuMyAxMi44QzEyLjMgMTEuNCAxMy4yIDEwLjYgMTQuMyAxMC42QzE1LjQgMTAuNiAxNi4xIDExLjQgMTYuMSAxMi42VjE4LjJIMTguM1YxMi4zQzE4LjMgMTAuMSAxNy4wIDguOCAxNS4xIDguOEMxMy43IDguOCAxMi44IDkuNSAxMi4yIDEwLjhMMTIuMiA4LjlIMTAuMlYxOC4ySDEyLjNaIiBmaWxsPSIjMTYxYjIyIi8%2BPC9zdmc%2B&labelColor=161B22" alt="LinkedIn: Francois le Roux" /></a>
   <a href="https://francoisleroux.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-francoisleroux.is--a.dev-5FD6C0?style=for-the-badge&logo=googlechrome&logoColor=5FD6C0&labelColor=161B22" alt="Portfolio: francoisleroux.is-a.dev" /></a>
+</p>
+
+<p align="center">
+  <sub>
+    Resources consulted: <a href="https://github.com/braydoncoyer/braydoncoyer">Braydon Coyer's GitHub profile</a> ·
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile list</a> (CC0) ·
+    Repository template by Armand Pretorius
+  </sub>
 </p>
 
 <p align="center">
